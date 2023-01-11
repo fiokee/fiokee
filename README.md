@@ -7,17 +7,16 @@ I'm FrontEnd Engineer
 </div>
 
  ### :man_technologist: About Me :
-I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs. 
+I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on frontend project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on leetcode and read tech articles and i also play guitar for fun.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-effiong-6b5a90208/)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
