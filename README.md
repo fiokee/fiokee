@@ -35,9 +35,9 @@ I'm an experienced software developer, passionate about Frontend web development
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fiokee&theme=radical)](https://git.io/streak-stats)
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiokee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
+ 
   
 
 
