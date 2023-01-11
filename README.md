@@ -15,7 +15,7 @@ I'm an experienced software developer, passionate about Frontend web development
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles and i also play guitar for fun.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-effiong-6b5a90208/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Samuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-effiong-6b5a90208/)
 
 
 
