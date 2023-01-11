@@ -6,7 +6,7 @@ I'm FrontEnd Engineer
   <img src ="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30%"/>
 </div>
 
- 👨‍🦱_technologist: About Me ### :
+ ### :man_technologist: About Me :
 I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs. 
 
 - 🔭 I’m currently working on ...
