@@ -6,8 +6,6 @@ I'm FrontEnd Engineer
   <img src ="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30%"/>
 </div>
 
-About Me
-I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs. 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,7 +22,8 @@ I'm an experienced software developer, passionate about Frontend web development
 </div>
 
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me :
+I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
