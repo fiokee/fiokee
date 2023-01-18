@@ -7,7 +7,7 @@ I'm FrontEnd Engineer
 </div>
 
  ### :man_technologist: About Me :
-I'm an experienced software developer, passionate about Frontend web development. My stack javascript and Reactjs.
+I'm an experienced software developer, passionate about Frontend web development I'm currently learning typescript. My stack javascript and Reactjs.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.
 
