@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm FrontEnd Engineer
+I'm Fullstack Developer MERN
 
 <div id="header" aling="center">
   <img src ="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30%"/>
 </div>
 
  ### :man_technologist: About Me :
-I'm an experienced software developer, passionate about Frontend web development I'm currently learning typescript. My stack javascript and Reactjs.
+I'm an experienced software developer, passionate about Frontend web development, Backend Development I'm currently learning typescript. My stack javascript, Nodejs, Expressjs, MongoDb and Reactjs.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
