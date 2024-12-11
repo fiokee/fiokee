@@ -1,13 +1,9 @@
 ### Hi there 👋
-
-I'm Fullstack Developer MERN
+I'm a Fullstack Developer (MERN) & Blockchain Enthusiast
 
 <div id="header" aling="center">
   <img src ="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30%"/>
 </div>
-
- ### :man_technologist: About Me :
-I'm a Fullstack Developer (MERN) & Blockchain Enthusiast
 
 👨‍💻 About Me:
 I'm a skilled software developer with experience in Frontend Web Development, Blockchain Technologies and backend development. I'm passionate about building innovative solutions in Web2 and exploring the potential of Web3. Currently, I'm diving deeper into blockchain development and smart contract auditing to expand my expertise.
