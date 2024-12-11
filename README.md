@@ -8,7 +8,12 @@ I'm a Fullstack Developer (MERN) & Blockchain Enthusiast
 👨‍💻 About Me:
 I'm a skilled software developer with experience in Frontend Web Development, Blockchain Technologies and backend development. I'm passionate about building innovative solutions in Web2 and exploring the potential of Web3. Currently, I'm diving deeper into blockchain development and smart contract auditing to expand my expertise.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend building web applications.
+My Tech Stack:
+Web2: JavaScript, Node.js, Express.js, MongoDB, React.js
+
+Web3: Solidity, Hardhat, Remix, web3.js and smart contract development
+
+- :telescope: I’m working as a freelancer Software Engineer and contributing to frontend and blockchain web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
