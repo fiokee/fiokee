@@ -7,7 +7,10 @@ I'm Fullstack Developer MERN
 </div>
 
  ### :man_technologist: About Me :
-I'm an experienced software developer, passionate about Frontend web development, Backend Development I'm currently learning typescript. My stack javascript, Nodejs, Expressjs, MongoDb and Reactjs.
+I'm a Fullstack Developer (MERN) & Blockchain Enthusiast
+
+👨‍💻 About Me:
+I'm a skilled software developer with experience in Frontend Web Development, Blockchain Technologies and backend development. I'm passionate about building innovative solutions in Web2 and exploring the potential of Web3. Currently, I'm diving deeper into blockchain development and smart contract auditing to expand my expertise.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend building web applications.
 
